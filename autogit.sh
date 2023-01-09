@@ -1,5 +1,5 @@
 git add .
-git commit -m "typeorm config -> done"
+git commit -m "error at typeorm CLI -> i cant fix!"
 git push -u origin main
 git status
 
